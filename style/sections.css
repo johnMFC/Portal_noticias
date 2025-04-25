@@ -8,13 +8,13 @@ section header{
         align-items: center;
         gap: 8px;
         span{
-           background-image: url(../assets/ArrowRight.svg);
+           background-image: url(../assets/Ads.png);
            width: 16px;
            height: 16px;
         }
 
         &:hover span{
-            background-image: url(../assets/ArrowRight.svg);
+            background-image: url(../assets/Ads.png);
         }
     }
 
