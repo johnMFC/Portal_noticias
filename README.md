@@ -1,2 +1,2 @@
-# Portal_noticias
-Portal de notícias em html e css
+# PORTAL PAGINA DE NÓTICIAS
+ESSE PROJETO TEM ENFASE NA PRÁTICA DE FLEXBOX E GRID.
